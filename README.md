@@ -1,7 +1,11 @@
 # nocodb usage
 nocodb usage
 
-# Install 
+# Website
+
+- 官网：<https://nocodb.com/>
+
+- GitHub: https://github.com/nocodb/nocodb
 
 # Install from Linux(binary)
 
